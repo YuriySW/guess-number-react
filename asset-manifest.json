@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YuriySW/guess-number-react/static/css/main.f1c3920a.css",
+    "main.js": "/YuriySW/guess-number-react/static/js/main.d985296f.js",
+    "index.html": "/YuriySW/guess-number-react/index.html",
+    "main.f1c3920a.css.map": "/YuriySW/guess-number-react/static/css/main.f1c3920a.css.map",
+    "main.d985296f.js.map": "/YuriySW/guess-number-react/static/js/main.d985296f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c3920a.css",
+    "static/js/main.d985296f.js"
+  ]
+}
